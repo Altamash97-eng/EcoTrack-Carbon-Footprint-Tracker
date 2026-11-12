@@ -1,4 +1,5 @@
 # 🌱 EcoTrack – AI-Powered Carbon Footprint Tracker
+🌍 Live Demo: https://eco-track-carbon-footprint-tracker-five.vercel.app
 
 EcoTrack is a MERN stack web application designed to help users monitor, analyze, and reduce their carbon footprint through activity tracking, data visualization, and AI-powered recommendations.
 
